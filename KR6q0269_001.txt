@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:49:18.420639
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 17:20
 #+TITLE: 百丈懷海禪師廣錄（四家語錄卷三）
 #+PROPERTY: CBETA_ID X69n1323
 #+PROPERTY: ID KR6q0269
